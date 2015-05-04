@@ -7,5 +7,6 @@ public class Super_java {
         Second_class sec = new Second_class();
         sec.print();
         new Third_class().print();
+        new Julia_88().printg();
     }
 }
