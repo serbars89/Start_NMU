@@ -3,8 +3,9 @@
  */
 public class Super_java {
     public static void main(String[] args) {
-        System.out.println("Я пушу свой первыый проект!! ");
+        System.out.println("I push my first project!!");
         Second_class sec = new Second_class();
         sec.print();
+        new Third_class().print();
     }
 }
